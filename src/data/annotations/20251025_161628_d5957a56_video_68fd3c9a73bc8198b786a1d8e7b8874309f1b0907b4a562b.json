@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_161628_d5957a56_video_68fd3c9a73bc8198b786a1d8e7b8874309f1b0907b4a562b",
+  "safety_status": "HIGH",
+  "scene_description": "A worker in a warehouse, wearing a safety vest, is operating a pallet jack. He shows signs of distress, sweating heavily, and nearly collapses, prompting another worker to intervene.",
+  "predictions": {
+    "probability": 0.9,
+    "incident_type": "Medical Emergency - First Aid/Ambulance"
+  },
+  "safety_response": "Immediately provide first aid, move the worker to a cooler area, and offer water. Monitor his condition closely. If symptoms persist or worsen, call emergency medical services. Investigate potential causes such as heat stress or overexertion and implement preventative measures."
+}

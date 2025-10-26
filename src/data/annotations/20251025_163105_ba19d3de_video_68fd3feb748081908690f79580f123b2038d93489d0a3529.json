@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_163105_ba19d3de_video_68fd3feb748081908690f79580f123b2038d93489d0a3529",
+  "safety_status": "EXTREME",
+  "scene_description": "Two construction workers are on a scaffold platform alongside a building. One worker is carrying blocks, and the other is stacking bricks. The scaffold platform appears to have an unsecured or incomplete section, leading to a fall.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Unsecured Working Platform"
+  },
+  "safety_response": "Immediately stop all work on the scaffold. Provide urgent medical attention to the injured worker. Secure the area below the scaffold to prevent further dropped object injuries. Conduct a thorough inspection of the scaffold to ensure it is fully decked, properly secured, and has adequate guardrails and toe boards. Retrain all workers on scaffold safety, fall protection, and proper material handling. Implement a strict scaffold inspection protocol before each shift."
+}

@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_163130_d0966b13_video_68fd3ff118bc819192f0ce4dbc32da650cea1e316a70e9c1",
+  "safety_status": "EXTREME",
+  "scene_description": "A worker in blue attire is climbing an extension ladder leaning against a building with large windows. The ground is wet. The worker overreaches at the top of the ladder, causing the ladder to slip at its base and fall backward. The worker falls with the ladder onto the wet pavement and is seen lying on the ground, groaning in pain and holding his side.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Fall Hazard (Height)"
+  },
+  "safety_response": "Immediately call 911 for emergency medical services for the injured worker. Secure the area. Conduct a thorough incident investigation to determine the root cause of the ladder slip, including proper ladder placement, angle, stability on wet surfaces, and worker behavior (overreaching). Implement immediate retraining on ladder safety, emphasizing the 3-point contact rule, proper ladder setup on stable and dry surfaces, securing the ladder, and avoiding overreaching. Consider alternative elevated work platforms for tasks requiring extended reach or working on unstable ground."
+}

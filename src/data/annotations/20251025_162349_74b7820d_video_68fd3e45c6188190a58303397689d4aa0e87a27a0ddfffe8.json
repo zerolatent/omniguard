@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_162349_74b7820d_video_68fd3e45c6188190a58303397689d4aa0e87a27a0ddfffe8",
+  "safety_status": "HIGH",
+  "scene_description": "Two workers are on a flat roof, working near an HVAC unit. One worker (in a red shirt) is moving backward towards the roof edge while being guided by another worker. The worker moving backward is equipped with a fall arrest system, including lanyards attached to temporary parapet clamp anchors on the roof edge.",
+  "predictions": {
+    "probability": 0.75,
+    "incident_type": "Fall Hazard (Height)"
+  },
+  "safety_response": "Instruct workers to always face the direction of travel when moving near roof edges, even when fall protection is in place, to maintain better awareness of their surroundings and prevent missteps. Ensure fall arrest lanyards are kept as taut as possible to minimize potential fall distance. Verify proper installation and load rating of all temporary parapet clamp anchors before use."
+}

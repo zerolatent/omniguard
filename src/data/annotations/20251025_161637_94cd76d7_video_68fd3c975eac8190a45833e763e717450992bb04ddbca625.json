@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_161637_94cd76d7_video_68fd3c975eac8190a45833e763e717450992bb04ddbca625",
+  "safety_status": "HIGH",
+  "scene_description": "Construction site with multiple workers pouring and finishing concrete. An excavator is visible in the background. A heat prevention chart is overlaid, indicating a temperature of 96 degrees Fahrenheit. Workers are engaged in strenuous physical labor under direct sunlight.",
+  "predictions": {
+    "probability": 0.9,
+    "incident_type": "Heat/Cold Stress"
+  },
+  "safety_response": "Implement immediate heat stress prevention protocols. Ensure frequent water breaks, provide shaded rest areas, monitor workers for signs of heat-related illness, and consider adjusting work schedules to avoid peak heat hours. Ensure adequate hydration is available and encouraged for all workers."
+}

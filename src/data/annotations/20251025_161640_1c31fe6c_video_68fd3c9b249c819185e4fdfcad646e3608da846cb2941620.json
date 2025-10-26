@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_161640_1c31fe6c_video_68fd3c9b249c819185e4fdfcad646e3608da846cb2941620",
+  "safety_status": "HIGH",
+  "scene_description": "A construction site break area with workers. One worker in an orange safety vest is standing next to a picnic table, drinking from a bottle, with his hard hat placed on the table instead of being worn. Other workers are visible in the background, some sitting at tables. The area is adjacent to an active construction zone with a fence.",
+  "predictions": {
+    "probability": 0.85,
+    "incident_type": "PPE Violation (Missing/Incorrect)"
+  },
+  "safety_response": "Require all workers to wear proper PPE, specifically hard hats, at all times while on the construction site, including designated break areas, unless in a fully enclosed and hazard-free environment. Conduct an immediate safety briefing to reinforce continuous PPE use."
+}

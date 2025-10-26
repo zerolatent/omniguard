@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_163054_968b3644_video_68fd3fe7fc58819085202cc3dcd37c9c053c5c88b6e4e58b",
+  "safety_status": "EXTREME",
+  "scene_description": "A construction worker operating a paving machine on a sunny day collapses forward into the machinery. Other workers are present on the ground near the machine and a dump truck. The worker had previously poured water on his head, possibly indicating heat stress.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Person Down/Injured"
+  },
+  "safety_response": "Immediately stop all machinery. Assess the worker's condition and provide first aid. Call emergency medical services (911/ambulance) immediately. Investigate the cause of collapse (e.g., heat stress, underlying medical condition) and implement preventative measures to ensure worker well-being in hot conditions."
+}

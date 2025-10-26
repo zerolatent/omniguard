@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_163014_ba25eae1_video_68fd3fd18d40819093006092b2203b810cfa97be43bde391",
+  "safety_status": "EXTREME",
+  "scene_description": "A construction worker collapses on a concrete pouring site while working in high heat conditions. A digital display in the background shows 94°F ambient temperature and 110°F Wet Bulb Globe Temperature (WBGT). Other workers are present and react to the incident, calling for help.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Medical Emergency - First Aid/Ambulance"
+  },
+  "safety_response": "Immediately call emergency medical services (911). Provide first aid and move the worker to a cooler, shaded area if safe to do so. Monitor vital signs. All work should cease until the worker is attended to and the site's heat stress protocols are reviewed and reinforced. Implement mandatory hydration breaks, provide cooling stations, and adjust work schedules to avoid peak heat hours. Educate all workers on heat stress symptoms and prevention."
+}

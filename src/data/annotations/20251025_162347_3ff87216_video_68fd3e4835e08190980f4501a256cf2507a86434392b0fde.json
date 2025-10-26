@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_162347_3ff87216_video_68fd3e4835e08190980f4501a256cf2507a86434392b0fde",
+  "safety_status": "HIGH",
+  "scene_description": "A worker is on a flat rooftop performing tasks under direct sunlight. A digital display shows the temperature as 96°F, feeling like 108°F. The worker appears to be experiencing heat stress, bending over and showing signs of discomfort.",
+  "predictions": {
+    "probability": 0.9,
+    "incident_type": "Heat/Cold Stress"
+  },
+  "safety_response": "Immediately check on the worker's condition and provide first aid if necessary. Implement mandatory hydration breaks, provide access to shaded rest areas, and ensure workers are monitored for signs of heat illness. Consider adjusting work schedules to avoid peak heat hours or providing cooling vests/equipment."
+}

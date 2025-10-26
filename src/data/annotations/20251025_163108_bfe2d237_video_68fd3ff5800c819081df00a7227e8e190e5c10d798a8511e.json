@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_163108_bfe2d237_video_68fd3ff5800c819081df00a7227e8e190e5c10d798a8511e",
+  "safety_status": "EXTREME",
+  "scene_description": "A forklift is operating in a large warehouse or industrial space with a significant, unguarded rectangular opening in the floor. The forklift, carrying a pallet of goods, reverses too close to the edge of this opening, causing it to become unstable, drop its load into the hole, and nearly tip over itself.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Unguarded Floor/Wall Opening"
+  },
+  "safety_response": "Immediately secure and guard the large floor opening with appropriate barriers or covers to prevent falls and equipment incidents. Implement strict safety protocols for forklift operation, including maintaining safe distances from unguarded edges and ensuring proper load stability. Conduct a thorough investigation into the incident and provide retraining for all personnel on hazard identification and safe operating procedures."
+}

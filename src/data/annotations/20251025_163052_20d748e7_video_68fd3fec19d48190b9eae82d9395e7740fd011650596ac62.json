@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_163052_20d748e7_video_68fd3fec19d48190b9eae82d9395e7740fd011650596ac62",
+  "safety_status": "EXTREME",
+  "scene_description": "Two workers are on a flat, white roof, carrying a large metal duct. One worker steps on a section of the roof, which gives way, causing him to fall through. The other worker reacts in shock and calls for help. The final shot shows the worker hanging from the roof opening from an exterior perspective.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Fall Hazard (Height)"
+  },
+  "safety_response": "Immediately call 911 for emergency medical services. Secure the area around the roof opening to prevent further falls. Do not attempt rescue without proper training and equipment. Conduct a thorough investigation into the cause of the roof collapse and implement immediate measures to prevent recurrence, including comprehensive roof integrity inspections and fall protection for all elevated work."
+}

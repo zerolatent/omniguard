@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_161635_5a96e2db_video_68fd3c9fcd9c819099fe012953d8720f0520f6f4f2523af8",
+  "safety_status": "HIGH",
+  "scene_description": "A worker is operating a large press brake machine, bending a metal sheet. The worker's hands are in close proximity to the machine's pinch point during operation, with a very close call observed where the machine closed immediately after the worker removed his hands.",
+  "predictions": {
+    "probability": 0.8,
+    "incident_type": "Caught-in/Caught-between Machinery"
+  },
+  "safety_response": "Implement strict lockout/tagout procedures and ensure proper guarding is in place for the press brake machine. Mandate the use of two-hand controls or light curtains to prevent hands from entering the pinch point during operation. Conduct a thorough review of safe operating procedures and provide refresher training to all operators."
+}

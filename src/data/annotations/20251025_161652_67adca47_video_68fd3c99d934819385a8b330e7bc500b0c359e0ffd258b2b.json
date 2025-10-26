@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_161652_67adca47_video_68fd3c99d934819385a8b330e7bc500b0c359e0ffd258b2b",
+  "safety_status": "EXTREME",
+  "scene_description": "A man is installing pink insulation in a room with exposed wooden studs. He is wearing a dust mask and orange gloves. He begins to scratch his neck, struggles to breathe, states his throat is closing, and eventually collapses on the floor, asking for help.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Medical Emergency - First Aid/Ambulance"
+  },
+  "safety_response": "Immediately call emergency services (911). Assess the worker's condition and provide first aid if trained and safe to do so. Investigate the cause of the allergic reaction or respiratory distress, including reviewing material safety data sheets (MSDS) for the insulation and ensuring proper PPE is used for all tasks."
+}

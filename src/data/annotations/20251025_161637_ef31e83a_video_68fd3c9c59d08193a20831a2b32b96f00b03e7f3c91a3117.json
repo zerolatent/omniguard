@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_161637_ef31e83a_video_68fd3c9c59d08193a20831a2b32b96f00b03e7f3c91a3117",
+  "safety_status": "EXTREME",
+  "scene_description": "The interior of a temporary construction site office or trailer shows an electrical panel, a power strip, a heater, a coffee maker, and other electrical devices. Two workers are seen leaving the area. Immediately after they leave, the power strip begins to spark and glow, indicating an electrical fire.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Fire/Explosion Hazard"
+  },
+  "safety_response": "An active electrical fire is occurring. Immediately call 911 for emergency services and the fire department. Ensure all personnel are evacuated from the area. Once the fire is extinguished and the area is safe, conduct a thorough investigation into the cause of the electrical overload and fire, and implement strict electrical safety protocols, including proper circuit loading, use of appropriate power strips, and regular inspection of electrical equipment and wiring."
+}

@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_161648_59467454_video_68fd3c9aa13c8190a13db825910a571106dc33a8848c44cd",
+  "safety_status": "EXTREME",
+  "scene_description": "A room containing multiple racks of large batteries connected by cables, next to an electrical control panel. Smoke and arcing are observed emanating from one of the batteries on the top shelf.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Active Fire/Smoke"
+  },
+  "safety_response": "Immediately evacuate the area and activate emergency fire protocols. Contact the fire department and emergency services. Do not attempt to extinguish the battery fire without specialized training and equipment, as it may involve toxic fumes and thermal runaway."
+}

@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_162344_02ace326_video_68fd3e380a348190bc411164f1453d810129d685af93d0de",
+  "safety_status": "HIGH",
+  "scene_description": "A man is operating a miter saw to cut wood in a workshop. He is not wearing eye protection, despite a clear 'EYE PROTECTION REQUIRED IN THIS AREA' sign visible in the background. During the cut, wood debris flies into his eye, causing an injury. Another worker immediately comes to assist him.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Eye Injury/Foreign Object"
+  },
+  "safety_response": "Immediately provide first aid for the eye injury and seek professional medical attention. Reinforce strict adherence to PPE requirements, especially eye protection, for all tasks involving power tools. Conduct a safety stand-down to review tool operation procedures and the critical importance of PPE, ensuring all workers understand and comply with safety protocols."
+}

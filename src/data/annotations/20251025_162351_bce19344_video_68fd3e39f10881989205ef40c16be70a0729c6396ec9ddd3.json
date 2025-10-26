@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_162351_bce19344_video_68fd3e39f10881989205ef40c16be70a0729c6396ec9ddd3",
+  "safety_status": "HIGH",
+  "scene_description": "A worker is seen attempting to open a cardboard box with a utility knife. The knife slips, and the worker cuts their finger, resulting in visible bleeding.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Laceration/Severe Bleeding"
+  },
+  "safety_response": "Provide immediate first aid to the injured worker. Review and reinforce proper utility knife safety procedures, including correct cutting techniques and the use of appropriate personal protective equipment such as cut-resistant gloves. Investigate the incident to prevent recurrence."
+}

@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_162438_2917d176_video_68fd3e3aacc481919fdfd0e48a5a015f0d9df654187f2974",
+  "safety_status": "HIGH",
+  "scene_description": "A construction worker is attempting to walk across a trench on a narrow, unstable wooden walkway while carrying a large sheet of plywood. The worker loses balance, falls onto the walkway, and appears to injure his ankle. The ground around the trench is muddy and uneven.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Unsecured Working Platform"
+  },
+  "safety_response": "Provide immediate medical attention to the injured worker. Immediately secure or replace the unstable wooden walkway with a properly constructed and stable access bridge or platform. Implement strict procedures for safe passage over trenches, ensuring all temporary walkways are properly designed, secured, and inspected before use. Review material handling procedures to ensure workers are not carrying oversized or heavy loads that obstruct their view or balance on uneven terrain."
+}

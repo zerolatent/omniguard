@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_162356_434b6710_video_68fd3e45ed6c819088257e25bd03986300fcaaf891ebcd7d",
+  "safety_status": "HIGH",
+  "scene_description": "A worker is walking while distracted by a phone near a large yellow excavator that is backing up on a dirt construction site. Other heavy machinery and materials are visible in the background.",
+  "predictions": {
+    "probability": 0.8,
+    "incident_type": "Crush/Proximity Hazard (Blind Spot)"
+  },
+  "safety_response": "Immediately stop all equipment movement. Instruct the worker to put away their phone and maintain situational awareness around heavy machinery. Reinforce 'no phone while walking' policy on site and ensure proper spotter procedures are followed when equipment is operating in areas with pedestrian traffic."
+}

@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_162326_29affffe_video_68fd3e3508b081918a7d7d88b6f004680743b8390a37d4e6",
+  "safety_status": "HIGH",
+  "scene_description": "A worker in a warehouse, wearing a high-visibility vest and gloves, attempts to manually lift a heavy bag from a pallet stacked with similar bags. He struggles, grunts, and then clutches his lower back in pain, indicating an injury. A hand truck is visible nearby.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Muscle Strain/Sprain Injury"
+  },
+  "safety_response": "Immediately assess the injured worker for medical attention. Reinforce proper lifting techniques, emphasizing the use of mechanical aids like hand trucks or forklifts for heavy loads. Conduct a safety briefing on manual handling and ergonomic practices to prevent future injuries."
+}

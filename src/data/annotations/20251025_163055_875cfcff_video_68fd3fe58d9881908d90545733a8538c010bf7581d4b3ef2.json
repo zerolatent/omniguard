@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_163055_875cfcff_video_68fd3fe58d9881908d90545733a8538c010bf7581d4b3ef2",
+  "safety_status": "HIGH",
+  "scene_description": "A worker inside a confined space (large pipe or tank) is experiencing symptoms of heat stress, including feeling hot and dizzy. He is wearing a hard hat, coveralls, and gloves, and is communicating with someone outside the confined space. He removes his hard hat and appears to be struggling.",
+  "predictions": {
+    "probability": 0.9,
+    "incident_type": "Heat/Cold Stress"
+  },
+  "safety_response": "Immediately extract the worker from the confined space. Assess for heat exhaustion/stroke and provide first aid or call for medical assistance (ambulance) if necessary. Do not allow the worker to continue working while experiencing these symptoms. Review confined space entry procedures and heat stress prevention protocols for all workers."
+}

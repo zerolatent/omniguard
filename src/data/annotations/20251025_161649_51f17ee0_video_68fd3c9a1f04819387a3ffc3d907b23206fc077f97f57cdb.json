@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_161649_51f17ee0_video_68fd3c9a1f04819387a3ffc3d907b23206fc077f97f57cdb",
+  "safety_status": "HIGH",
+  "scene_description": "A workshop or storage area with wooden walls and a wooden workbench. On the workbench, there is a pile of rags, some paint cans, and a brush. Smoke is actively rising from the rags, indicating a smoldering fire.",
+  "predictions": {
+    "probability": 0.95,
+    "incident_type": "Active Fire/Smoke"
+  },
+  "safety_response": "Immediately extinguish the smoldering rags. Remove all oil-soaked rags and dispose of them properly in a sealed, non-combustible container to prevent spontaneous combustion. Investigate the cause of the smoldering and ensure proper material storage procedures are followed to prevent future incidents. Have fire suppression equipment readily available."
+}

@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_163103_31160191_video_68fd3ff1d28481908a0be1cc364c1f010b6018e9712e6c63",
+  "safety_status": "EXTREME",
+  "scene_description": "Two workers are on a scissor lift positioned precariously on the edge of a trench next to a building. The scissor lift is leaning significantly into the trench, and one worker is reaching out from the platform. The lift then tips further into the trench, with the workers holding onto the platform rails.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Equipment Instability/Tip-over Risk"
+  },
+  "safety_response": "Immediately call 911 for emergency services (fire department and ambulance). Secure the area to prevent further collapse or injury. Do not attempt to rescue without proper training and equipment. Assess workers for injuries and provide first aid if safe to do so. Investigate the cause of the tip-over, including improper placement of the lift near an excavation and potential overloading or improper operation. Reinforce training on safe operation of aerial work platforms, especially near trenches and unstable ground."
+}

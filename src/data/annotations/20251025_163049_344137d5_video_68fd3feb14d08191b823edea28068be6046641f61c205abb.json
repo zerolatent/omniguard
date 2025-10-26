@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_163049_344137d5_video_68fd3feb14d08191b823edea28068be6046641f61c205abb",
+  "safety_status": "EXTREME",
+  "scene_description": "A large warehouse with high shelves stocked with goods. Several workers are visible, moving around. A digital display in the upper left corner shows temperature readings. An elderly worker, Walt, is seen struggling, leaning on a cart, then bending over, and eventually collapsing to the floor. Other workers are present in the background.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Medical Emergency - First Aid/Ambulance"
+  },
+  "safety_response": "Immediately call for emergency medical services (911). Provide first aid to the collapsed worker, moving them to a cooler area if possible and applying cooling measures. Investigate the cause of the high temperature in the warehouse (indicated as 90°F) and implement immediate controls to reduce heat stress for all workers, such as improved ventilation, air conditioning, mandatory breaks, and hydration stations. Monitor other workers for signs of heat-related illness."
+}

@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_161651_efad28a8_video_68fd3c97ac788190965181fe0d8bfcd50cb2b3b6d0afe62a",
+  "safety_status": "EXTREME",
+  "scene_description": "A worker is performing hot work (plasma cutting) on a metal beam. Sparks are falling onto dry grass/debris. To the right, a stack of wooden pallets is actively on fire and smoking. A 'HOT WORK PERMIT' sign is visible, but hot work is being conducted in close proximity to highly flammable materials, some of which are already burning.",
+  "predictions": {
+    "probability": 1.0,
+    "incident_type": "Active Fire/Smoke"
+  },
+  "safety_response": "Immediately cease all hot work operations. Activate emergency fire response (call fire department). Ensure all personnel are evacuated from the immediate area. Investigate hot work permit compliance, fire watch procedures, and ensure proper clearance of combustible materials before any future hot work."
+}

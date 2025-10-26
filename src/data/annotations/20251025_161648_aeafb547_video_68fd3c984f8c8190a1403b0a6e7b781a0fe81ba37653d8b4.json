@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_161648_aeafb547_video_68fd3c984f8c8190a1403b0a6e7b781a0fe81ba37653d8b4",
+  "safety_status": "HIGH",
+  "scene_description": "A worker in a hard hat and high-visibility vest is refueling a running diesel generator from red jerry cans. A significant amount of diesel fuel has spilled on the ground around the generator and the worker's immediate area. A large 'DIESEL FUEL' storage tank is visible nearby.",
+  "predictions": {
+    "probability": 0.85,
+    "incident_type": "Fire/Explosion Hazard"
+  },
+  "safety_response": "Immediately stop all refueling operations and shut down the generator if safe to do so. Evacuate non-essential personnel from the area. Contain the diesel spill using appropriate absorbent materials and ensure all ignition sources are eliminated. Investigate the cause of the spill and implement corrective actions to prevent future occurrences. Ensure workers are trained in safe refueling procedures and spill response."
+}

@@ -1,0 +1,10 @@
+{
+  "video_id": "20251025_162359_5d960e4f_video_68fd3e4808948190a811a3c75b283a2301c745d6dcdde3bd",
+  "safety_status": "HIGH",
+  "scene_description": "A worker is operating a concrete saw, generating significant dust. He is wearing a hard hat, safety glasses, and a dust mask. On the wall behind him, there are exposed electrical wires and a power strip or junction box from which sparks and flashes are visibly emanating.",
+  "predictions": {
+    "probability": 0.95,
+    "incident_type": "Electrical Hazard (Exposed Wire/Damage)"
+  },
+  "safety_response": "Immediately cease all work. Disconnect power to the affected area. A qualified electrician must inspect and repair the faulty electrical connections and exposed wiring before any further work can resume. Ensure all electrical equipment is properly maintained and connections are secure and protected."
+}
